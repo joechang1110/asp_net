@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Index.aspx" title="Home"  description="Home">
+        <siteMapNode url="~/arche/archeIndex.aspx" title="arche"  description="arche" />
+        <siteMapNode url="高捷2.aspx" title="高捷"  description="高捷" />
+        <siteMapNode url="~/govsec/BookGridViewSelectA.aspx" title="北市秘書處"  description="北市秘書處" />
+    </siteMapNode>
+</siteMap>

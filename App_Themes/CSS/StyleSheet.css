@@ -1,0 +1,26 @@
+﻿body {
+}
+    .PageTitle
+    {
+    font-family:標楷體;
+    font-size:24pt;
+    font-weight:bolder;
+    color:white;
+    background-color:#191970;
+    padding-top:10px;
+    padding-right:10px;  
+    padding-bottom:10px;
+    padding-left:10px;
+    }
+    .PageSubTitle
+    {
+    font-family:標楷體;
+    font-size:18pt;
+    font-weight:bolder;
+    color:white;
+    background-color:#0000ff;
+    padding-top:10px;
+    padding-right:10px;  
+    padding-bottom:10px;
+    padding-left:10px;
+    }

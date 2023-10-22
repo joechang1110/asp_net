@@ -1,0 +1,3 @@
+<object id="Flash">
+<embed type="application/x-shockwave-flash" src="001.swf"/>
+</object>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+    <Ad>
+        <ImageUrl>4250.jpg</ImageUrl>
+        <NavigateUrl>http://www.google.com</NavigateUrl>
+        <AlternateText>MIB</AlternateText>
+        <Impression>6</Impression>
+    </Ad>
+    <Ad>
+        <ImageUrl>4116.jpg</ImageUrl>
+        <NavigateUrl>http://tw.yahoo.com</NavigateUrl>
+        <AlternateText>Yahoo</AlternateText>
+        <Impression>2</Impression>
+    </Ad>
+    <Ad>
+        <ImageUrl>3912.jpg</ImageUrl>
+        <NavigateUrl>http://www.pcschool.com.tw</NavigateUrl>
+        <AlternateText>TEST</AlternateText>
+        <Impression>3</Impression>
+    </Ad>
+    <Ad>
+        <ImageUrl>3911.jpg</ImageUrl>
+        <NavigateUrl>http://www.bop.com.tw</NavigateUrl>
+        <AlternateText>板信銀行</AlternateText>
+        <Impression>1</Impression>
+    </Ad>
+</Advertisements>

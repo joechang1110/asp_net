@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Fruit0.gif</ImageUrl>
+    <NavigateUrl>Fruit0.gif</NavigateUrl>
+    <AlternateText>Fruit0.gif</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+    <Ad>
+    <ImageUrl>Fruit1.gif</ImageUrl>
+    <NavigateUrl>Fruit1.gif</NavigateUrl>
+    <AlternateText>Fruit1.gif</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Fruit2.gif</ImageUrl>
+    <NavigateUrl>Fruit2.gif</NavigateUrl>
+    <AlternateText>Fruit2.gif</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Fruit3.gif</ImageUrl>
+    <NavigateUrl>Fruit3.gif</NavigateUrl>
+    <AlternateText>Fruit3.gif</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Fruit4.gif</ImageUrl>
+    <NavigateUrl>Fruit4.gif</NavigateUrl>
+    <AlternateText>Fruit4.gif</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Fruit5.gif</ImageUrl>
+    <NavigateUrl>Fruit5.gif</NavigateUrl>
+    <AlternateText>Fruit5.gif</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Fruit6.gif</ImageUrl>
+    <NavigateUrl>Fruit6.gif</NavigateUrl>
+    <AlternateText>Fruit6.gif</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>
